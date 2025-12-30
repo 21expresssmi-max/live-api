@@ -64,6 +64,25 @@
             },
             {
                 "unix_timestamp": 1767124800,
+                "sport": "Cycling",
+                "tournament": "Superprestige",
+                "match": "Diegem Men",
+                "channels": [
+                    "https:\/\/topembed.pw\/channel\/TNTSports2[UK]",
+                    "https:\/\/topembed.pw\/channel\/Eurosport1[Poland]",
+                    "https:\/\/antenasport.org\/eurosport1fr.php",
+                    "https:\/\/topembed.pw\/channel\/Eurosport1[France]",
+                    "https:\/\/antenasport.org\/maxtnt2.php",
+                    "https:\/\/topembed.pw\/channel\/Eurosport1[Spain]",
+                    "https:\/\/dlhd.dad\/stream\/stream-57.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-524.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-772.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-878.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-41.php"
+                ]
+            },
+            {
+                "unix_timestamp": 1767124800,
                 "sport": "Football",
                 "tournament": "Africa Cup of Nations",
                 "match": "Benin vs Senegal",
@@ -114,11 +133,8 @@
                 "match": "Hapoel vs Zalgiris",
                 "channels": [
                     "https:\/\/antenasport.org\/movistar2.php",
-                    "https:\/\/dlhd.dad\/stream\/stream-57.php",
-                    "https:\/\/dlhd.dad\/stream\/stream-524.php",
-                    "https:\/\/dlhd.dad\/stream\/stream-772.php",
-                    "https:\/\/dlhd.dad\/stream\/stream-878.php",
-                    "https:\/\/dlhd.dad\/stream\/stream-41.php"
+                    "https:\/\/antenasport.org\/novasport6gr.php",
+                    "https:\/\/antenasport.org\/sport5il.php"
                 ]
             },
             {
