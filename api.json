@@ -1,387 +1,354 @@
 {
     "events": {
-        "2025-12-30": [
+        "2026-01-01": [
             {
-                "unix_timestamp": 1767114000,
-                "sport": "Football",
-                "tournament": "Africa Cup of Nations",
-                "match": "Tanzania vs Tunisia",
-                "channels": [
-                    "https:\/\/antenasport.org\/dazn1ppv.php",
-                    "https:\/\/antenasport.org\/okkofutbol.php",
-                    "https:\/\/antenasport.org\/beinsportextra.php",
-                    "https:\/\/antenasport.org\/beinsportusaes.php",
-                    "https:\/\/antenasport.org\/vamos.php",
-                    "https:\/\/antenasport.org\/bein1fr.php",
-                    "https:\/\/antenasport.org\/maxsport2bg.php",
-                    "https:\/\/antenasport.org\/beinsport1max.php",
-                    "https:\/\/antenasport.org\/arena3premiumserbia.php",
-                    "https:\/\/antenasport.org\/sport3pt.php",
-                    "https:\/\/antenasport.org\/ziggosport2.php"
-                ]
-            },
-            {
-                "unix_timestamp": 1767114000,
-                "sport": "Football",
-                "tournament": "Africa Cup of Nations",
-                "match": "Uganda vs Nigeria",
-                "channels": [
-                    "https:\/\/antenasport.org\/dazn2ppv.php",
-                    "https:\/\/antenasport.org\/beinsportusa.php",
-                    "https:\/\/antenasport.org\/4seven.php",
-                    "https:\/\/antenasport.org\/bein2fr.php",
-                    "https:\/\/antenasport.org\/vamos.php",
-                    "https:\/\/antenasport.org\/maxsport4bg.php",
-                    "https:\/\/antenasport.org\/sportdigitalde.php",
-                    "https:\/\/antenasport.org\/arena2premiumserbia.php",
-                    "https:\/\/antenasport.org\/sport2pt.php",
-                    "https:\/\/antenasport.org\/sportklub2.php",
-                    "https:\/\/antenasport.org\/ziggosport1.php"
-                ]
-            },
-            {
-                "unix_timestamp": 1767117600,
-                "sport": "Basketball",
-                "tournament": "Champions League",
-                "match": "Cluj vs Slask",
-                "channels": [
-                    "https:\/\/antenasport.org\/arena4premiumserbia.php"
-                ]
-            },
-            {
-                "unix_timestamp": 1767124800,
+                "unix_timestamp": 1767354300,
                 "sport": "Cycling",
-                "tournament": "Superprestige",
-                "match": "Diegem Women",
+                "tournament": "X2O Badkamers Trophy",
+                "match": "X2O Baal",
                 "channels": [
-                    "https:\/\/viamotionhsi.netplus.ch\/live\/eds\/raisport1\/browser-HLS8\/raisport1.m3u8",
-                    "https:\/\/d1cctoeg0n48w5.cloudfront.net\/v1\/master\/3722c60a815c199d9c0ef36c5b73da68a62b09d1\/cc-mnixw9wn5ugmv\/TeledeporteES.m3u8",
-                    "https:\/\/dlhd.dad\/stream\/stream-524.php",
-                    "https:\/\/dlhd.dad\/stream\/stream-772.php",
-                    "https:\/\/dlhd.dad\/stream\/stream-878.php",
-                    "https:\/\/dlhd.dad\/stream\/stream-41.php"
-                ]
-            },
-            {
-                "unix_timestamp": 1767124800,
-                "sport": "Cycling",
-                "tournament": "Superprestige",
-                "match": "Diegem Men",
-                "channels": [
-                    "https:\/\/viamotionhsi.netplus.ch\/live\/eds\/raisport1\/browser-HLS8\/raisport1.m3u8",
-                    "https:\/\/d1cctoeg0n48w5.cloudfront.net\/v1\/master\/3722c60a815c199d9c0ef36c5b73da68a62b09d1\/cc-mnixw9wn5ugmv\/TeledeporteES.m3u8",
-                    "https:\/\/antenasport.org\/eurosport1fr.php",
-                    "https:\/\/topembed.pw\/channel\/Eurosport1[France]",
-                    "https:\/\/antenasport.org\/maxtnt2.php",
-                    "https:\/\/topembed.pw\/channel\/Eurosport1[Spain]",
-                    "https:\/\/dlhd.dad\/stream\/stream-57.php",
-                    "https:\/\/dlhd.dad\/stream\/stream-524.php",
-                    "https:\/\/dlhd.dad\/stream\/stream-772.php",
-                    "https:\/\/dlhd.dad\/stream\/stream-878.php",
-                    "https:\/\/dlhd.dad\/stream\/stream-41.php"
-                ]
-            },
-            {
-                "unix_timestamp": 1767124800,
-                "sport": "Football",
-                "tournament": "Africa Cup of Nations",
-                "match": "Benin vs Senegal",
-                "channels": [
-                    "https:\/\/antenasport.org\/dazn3ppv.php",
-                    "https:\/\/antenasport.org\/beinsportusa.php",
-                    "https:\/\/antenasport.org\/4seven.php",
-                    "https:\/\/antenasport.org\/bein1fr.php",
-                    "https:\/\/antenasport.org\/maxsport4bg.php",
-                    "https:\/\/antenasport.org\/sportklub2.php",
-                    "https:\/\/antenasport.org\/beinsport1max.php",
-                    "https:\/\/antenasport.org\/ziggosport1.php",
-                    "https:\/\/antenasport.org\/sport2pt.php"
-                ]
-            },
-            {
-                "unix_timestamp": 1767124800,
-                "sport": "Football",
-                "tournament": "Africa Cup of Nations",
-                "match": "Botswana vs Congo DR",
-                "channels": [
-                    "https:\/\/antenasport.org\/dazn4ppv.php",
-                    "https:\/\/antenasport.org\/megogosport.php",
-                    "https:\/\/antenasport.org\/okkofutbol.php",
-                    "https:\/\/antenasport.org\/beinsportextra.php",
-                    "https:\/\/antenasport.org\/beinsportusaes.php",
-                    "https:\/\/antenasport.org\/bein2fr.php",
-                    "https:\/\/antenasport.org\/sportdigitalde.php",
-                    "https:\/\/antenasport.org\/sport3pt.php",
-                    "https:\/\/antenasport.org\/ziggosport2.php"
-                ]
-            },
-            {
-                "unix_timestamp": 1767124800,
-                "sport": "Basketball",
-                "tournament": "Euroleague",
-                "match": "Valencia vs Partizan",
-                "channels": [
-                    "https:\/\/antenasport.org\/arena1premiumserbia.php",
-                    "https:\/\/antenasport.org\/movistar1.php",
-                    "https:\/\/antenasport.org\/novasport3gr.php"
-                ]
-            },
-            {
-                "unix_timestamp": 1767125100,
-                "sport": "Basketball",
-                "tournament": "Euroleague",
-                "match": "Hapoel vs Zalgiris",
-                "channels": [
-                    "https:\/\/antenasport.org\/movistar2.php",
-                    "https:\/\/antenasport.org\/novasport6gr.php",
-                    "https:\/\/antenasport.org\/sport5il.php"
-                ]
-            },
-            {
-                "unix_timestamp": 1767125700,
-                "sport": "Basketball",
-                "tournament": "Euroleague",
-                "match": "ASVEL vs Paris",
-                "channels": [
-                    "https:\/\/antenasport.org\/movistar3.php"
-                ]
-            },
-            {
-                "unix_timestamp": 1767126600,
-                "sport": "Football",
-                "tournament": "Premier League",
-                "match": "Chelsea vs AFC Bournemouth",
-                "channels": [
-                    "https:\/\/antenasport.org\/usa.php",
-                    "https:\/\/antenasport.org\/setantasport2.php",
-                    "https:\/\/antenasport.org\/epl16.php",
-                    "https:\/\/antenasport.org\/skymain.php",
-                    "https:\/\/antenasport.org\/sky5nz.php",
-                    "https:\/\/antenasport.org\/arenasport2hr.php",
-                    "https:\/\/antenasport.org\/arena4premiumserbia.php",
-                    "https:\/\/antenasport.org\/novasport5gr.php"
-                ]
-            },
-            {
-                "unix_timestamp": 1767126600,
-                "sport": "Football",
-                "tournament": "Premier League",
-                "match": "West Ham United vs Brighton & Hove Albion",
-                "channels": [
-                    "https:\/\/antenasport.org\/epl28.php",
-                    "https:\/\/antenasport.org\/skygolf.php",
-                    "https:\/\/antenasport.org\/sky9nz.php",
-                    "https:\/\/antenasport.org\/arena5premiumserbia.php",
-                    "https:\/\/antenasport.org\/arenasport6hr.php"
-                ]
-            },
-            {
-                "unix_timestamp": 1767126600,
-                "sport": "Football",
-                "tournament": "Premier League",
-                "match": "Nottingham Forest vs Everton",
-                "channels": [
-                    "https:\/\/antenasport.org\/epl25.php",
-                    "https:\/\/antenasport.org\/skycricket.php",
-                    "https:\/\/antenasport.org\/sky7nz.php",
-                    "https:\/\/antenasport.org\/arenasport4hr.php",
-                    "https:\/\/antenasport.org\/novasportstart.php"
-                ]
-            },
-            {
-                "unix_timestamp": 1767126600,
-                "sport": "Football",
-                "tournament": "Premier League",
-                "match": "Burnley vs Newcastle United",
-                "channels": [
-                    "https:\/\/antenasport.org\/epl15.php",
-                    "https:\/\/antenasport.org\/skytennisuk.php",
-                    "https:\/\/antenasport.org\/sky6nz.php",
-                    "https:\/\/antenasport.org\/arenasport5hr.php"
-                ]
-            },
-            {
-                "unix_timestamp": 1767126600,
-                "sport": "Football",
-                "tournament": "Premier League",
-                "match": "Simulcast English Premier League",
-                "channels": [
-                    "https:\/\/antenasport.org\/sky8nz.php",
-                    "https:\/\/antenasport.org\/canal360fr.php"
-                ]
-            },
-            {
-                "unix_timestamp": 1767126600,
-                "sport": "Basketball",
-                "tournament": "Euroleague",
-                "match": "Barcelona vs Monaco",
-                "channels": [
-                    "https:\/\/antenasport.org\/vamos.php",
-                    "https:\/\/antenasport.org\/sportklub3.php",
-                    "https:\/\/antenasport.org\/novasport4gr.php"
-                ]
-            },
-            {
-                "unix_timestamp": 1767128400,
-                "sport": "Football",
-                "tournament": "Premier League",
-                "match": "Arsenal vs Aston Villa",
-                "channels": [
-                    "https:\/\/antenasport.org\/nbcsn.php",
-                    "https:\/\/antenasport.org\/superpremier.php",
-                    "https:\/\/antenasport.org\/skypremier.php",
-                    "https:\/\/antenasport.org\/epl11.php",
-                    "https:\/\/antenasport.org\/sky4nz.php",
-                    "https:\/\/antenasport.org\/canalfootfr.php",
-                    "https:\/\/antenasport.org\/dazn1.php",
-                    "https:\/\/antenasport.org\/skycalcio.php",
-                    "https:\/\/antenasport.org\/diemasport2.php",
-                    "https:\/\/antenasport.org\/arena2premiumserbia.php",
-                    "https:\/\/antenasport.org\/arenasport1hr.php"
-                ]
-            },
-            {
-                "unix_timestamp": 1767128400,
-                "sport": "Football",
-                "tournament": "Premier League",
-                "match": "Manchester United vs Wolverhampton Wanderers",
-                "channels": [
-                    "https:\/\/antenasport.org\/epl23.php",
-                    "https:\/\/antenasport.org\/setantasport1.php",
-                    "https:\/\/antenasport.org\/skyfootball.php",
-                    "https:\/\/antenasport.org\/sky3nz.php",
-                    "https:\/\/antenasport.org\/canalsportfr.php",
-                    "https:\/\/antenasport.org\/arena3premiumserbia.php",
-                    "https:\/\/antenasport.org\/arenasport3hr.php",
-                    "https:\/\/antenasport.org\/novasport2gr.php"
+                    "https:\/\/topembed.pw\/channel\/TNTSports2[UK]",
+                    "https:\/\/topembed.pw\/channel\/Eurosport2[Spain]",
+                    "https:\/\/topembed.pw\/channel\/Eurosport2[Poland]",
+                    "https:\/\/topembed.pw\/channel\/Eurosport2[France]",
+                    "https:\/\/dlhd.dad\/stream\/stream-32.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-58.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-525.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-773.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-879.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-42.php"
                 ]
             }
         ],
-        "2025-12-31": [
+        "2026-01-02": [
             {
-                "unix_timestamp": 1767204000,
+                "unix_timestamp": 1767369600,
+                "sport": "American Football",
+                "tournament": "NCAAF",
+                "match": "No. 4 Texas Tech vs. No. 5 Oregon | Orange Bowl (CFP Quarterfinal)",
+                "channels": [
+                    "https:\/\/dlhd.dad\/stream\/stream-111.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-113.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-114.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-44.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-45.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-316.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-495.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-375.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-101.php"
+                ]
+            },
+            {
+                "unix_timestamp": 1767384000,
                 "sport": "Ice Hockey",
                 "tournament": "NHL",
-                "match": "Pittsburgh Penguins vs Carolina Hurricanes",
+                "match": "Washington Capitals vs Ottawa Senators",
                 "channels": [
-                    "https:\/\/antenasport.org\/arena1premiumserbia.php"
+                    "https:\/\/dlhd.dad\/stream\/stream-115.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-839.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-550.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-778.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-557.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-888.php"
                 ]
             },
             {
-                "unix_timestamp": 1767220200,
+                "unix_timestamp": 1767385800,
+                "sport": "Football",
+                "tournament": "England - Premier League",
+                "match": "Liverpool vs Leeds United",
+                "channels": [
+                    "https:\/\/dlhd.dad\/stream\/stream-343.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-38.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-596.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-445.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-556.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-1020.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-455.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-463.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-67.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-134.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-599.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-432.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-811.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-81.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-466.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-149.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-414.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-91.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-61.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-140.php"
+                ]
+            },
+            {
+                "unix_timestamp": 1767385800,
+                "sport": "Football",
+                "tournament": "England - Premier League",
+                "match": "Crystal Palace vs Fulham",
+                "channels": [
+                    "https:\/\/dlhd.dad\/stream\/stream-130.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-589.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-446.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-70.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-456.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-946.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-464.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-457.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-135.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-638.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-223.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-433.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-467.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-85.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-572.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-419.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-92.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-141.php"
+                ]
+            },
+            {
+                "unix_timestamp": 1767391200,
                 "sport": "Basketball",
-                "tournament": "NBA",
-                "match": "LA Lakers vs Detroit",
+                "tournament": "NCAA",
+                "match": "Milwaukee vs Wright State",
                 "channels": [
-                    "https:\/\/antenasport.org\/arena1premiumserbia.php"
+                    "https:\/\/dlhd.dad\/stream\/stream-664.php"
                 ]
             },
             {
-                "unix_timestamp": 1767272400,
-                "sport": "Football",
-                "tournament": "A-League",
-                "match": "Central Coast Mariners vs Brisbane Roar",
-                "channels": [
-                    "https:\/\/antenasport.org\/maxtnt1.php"
-                ]
-            },
-            {
-                "unix_timestamp": 1767290400,
-                "sport": "Basketball",
-                "tournament": "NBA",
-                "match": "Charlotte vs Golden State",
-                "channels": [
-                    "https:\/\/antenasport.org\/arena1premiumserbia.php"
-                ]
-            },
-            {
-                "unix_timestamp": 1767306600,
-                "sport": "Football",
-                "tournament": "Africa Cup of Nations",
-                "match": "Sudan vs Burkina Faso",
-                "channels": [
-                    "https:\/\/antenasport.org\/dazn2ppv.php",
-                    "https:\/\/antenasport.org\/megogosport.php",
-                    "https:\/\/antenasport.org\/beinsportextra.php",
-                    "https:\/\/antenasport.org\/beinsportusaes.php",
-                    "https:\/\/antenasport.org\/bein2fr.php",
-                    "https:\/\/antenasport.org\/sportdigitalde.php",
-                    "https:\/\/antenasport.org\/arena2premiumserbia.php",
-                    "https:\/\/antenasport.org\/sport3pt.php",
-                    "https:\/\/antenasport.org\/ziggosport2.php"
-                ]
-            },
-            {
-                "unix_timestamp": 1767306600,
-                "sport": "Football",
-                "tournament": "Africa Cup of Nations",
-                "match": "Equatorial Guinea vs Algeria",
-                "channels": [
-                    "https:\/\/antenasport.org\/dazn1ppv.php",
-                    "https:\/\/antenasport.org\/okkofutbol.php",
-                    "https:\/\/antenasport.org\/beinsportusa.php",
-                    "https:\/\/antenasport.org\/4seven.php",
-                    "https:\/\/antenasport.org\/bein1fr.php",
-                    "https:\/\/antenasport.org\/beinsport1max.php",
-                    "https:\/\/antenasport.org\/arena3premiumserbia.php",
-                    "https:\/\/antenasport.org\/maxsport4bg.php",
-                    "https:\/\/antenasport.org\/sport2pt.php",
-                    "https:\/\/antenasport.org\/sportklub2.php",
-                    "https:\/\/antenasport.org\/ziggosport1.php"
-                ]
-            },
-            {
-                "unix_timestamp": 1767313800,
+                "unix_timestamp": 1767398400,
                 "sport": "Ice Hockey",
                 "tournament": "NHL",
-                "match": "Washington vs NY Rangers",
+                "match": "Utah Mammoth vs New York Islanders",
                 "channels": [
-                    "https:\/\/antenasport.org\/arenasport1hr.php"
+                    "https:\/\/dlhd.dad\/stream\/stream-663.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-406.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-407.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-408.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-433.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-454.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-1021.php"
                 ]
             },
             {
-                "unix_timestamp": 1767319200,
+                "unix_timestamp": 1767398400,
+                "sport": "Football",
+                "tournament": "England - Premier League",
+                "match": "Brentford vs Tottenham Hotspur",
+                "channels": [
+                    "https:\/\/dlhd.dad\/stream\/stream-130.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-589.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-446.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-946.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-456.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-464.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-135.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-638.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-434.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-70.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-467.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-572.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-419.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-92.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-141.php"
+                ]
+            },
+            {
+                "unix_timestamp": 1767398400,
+                "sport": "Football",
+                "tournament": "England - Premier League",
+                "match": "Sunderland vs Manchester City",
+                "channels": [
+                    "https:\/\/dlhd.dad\/stream\/stream-343.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-38.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-596.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-445.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-556.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-455.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-463.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-1020.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-911.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-67.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-134.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-599.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-432.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-811.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-466.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-81.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-149.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-414.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-412.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-91.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-61.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-140.php"
+                ]
+            },
+            {
+                "unix_timestamp": 1767405600,
+                "sport": "American Football",
+                "tournament": "NCAAF",
+                "match": "No. 1 Indiana vs. No. 9 Alabama | Rose Bowl (CFP Quarterfinal)",
+                "channels": [
+                    "https:\/\/dlhd.dad\/stream\/stream-111.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-114.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-115.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-288.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-44.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-316.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-385.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-375.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-101.php"
+                ]
+            },
+            {
+                "unix_timestamp": 1767416400,
                 "sport": "Basketball",
                 "tournament": "NBA",
-                "match": "Cleveland vs Phoenix",
+                "match": "Brooklyn Nets vs Houston Rockets",
                 "channels": [
-                    "https:\/\/antenasport.org\/arena1premiumserbia.php"
+                    "https:\/\/dlhd.dad\/stream\/stream-763.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-921.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-625.php"
                 ]
             },
             {
-                "unix_timestamp": 1767319200,
-                "sport": "Football",
-                "tournament": "Africa Cup of Nations",
-                "match": "Gabon vs Cote d'Ivoire",
+                "unix_timestamp": 1767420000,
+                "sport": "Basketball",
+                "tournament": "NBA",
+                "match": "Detroit Pistons vs Miami Heat",
                 "channels": [
-                    "https:\/\/antenasport.org\/dazn3ppv.php",
-                    "https:\/\/antenasport.org\/beinsportusa.php",
-                    "https:\/\/antenasport.org\/4seven.php",
-                    "https:\/\/antenasport.org\/bein1fr.php",
-                    "https:\/\/antenasport.org\/maxsport4bg.php",
-                    "https:\/\/antenasport.org\/beinsport1max.php",
-                    "https:\/\/antenasport.org\/sport3pt.php",
-                    "https:\/\/antenasport.org\/arena2premiumserbia.php",
-                    "https:\/\/antenasport.org\/sportklub2.php",
-                    "https:\/\/antenasport.org\/ziggosport1.php"
+                    "https:\/\/dlhd.dad\/stream\/stream-134.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-49.php"
                 ]
             },
             {
-                "unix_timestamp": 1767319200,
-                "sport": "Football",
-                "tournament": "Africa Cup of Nations",
-                "match": "Mozambique vs Cameroon",
+                "unix_timestamp": 1767420000,
+                "sport": "Ice Hockey",
+                "tournament": "NHL",
+                "match": "Detroit Red Wings vs Pittsburgh Penguins",
                 "channels": [
-                    "https:\/\/antenasport.org\/dazn4ppv.php",
-                    "https:\/\/antenasport.org\/okkofutbol.php",
-                    "https:\/\/antenasport.org\/beinsportextra.php",
-                    "https:\/\/antenasport.org\/beinsportusaes.php",
-                    "https:\/\/antenasport.org\/bein2fr.php",
-                    "https:\/\/antenasport.org\/vamos.php",
-                    "https:\/\/antenasport.org\/sportdigitalde.php",
-                    "https:\/\/antenasport.org\/arena3premiumserbia.php",
-                    "https:\/\/antenasport.org\/sport2pt.php",
-                    "https:\/\/antenasport.org\/ziggosport2.php"
+                    "https:\/\/dlhd.dad\/stream\/stream-922.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-407.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-408.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-891.php"
+                ]
+            },
+            {
+                "unix_timestamp": 1767420000,
+                "sport": "Ice Hockey",
+                "tournament": "NHL",
+                "match": "Montreal Canadiens vs Carolina Hurricanes",
+                "channels": [
+                    "https:\/\/dlhd.dad\/stream\/stream-550.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-112.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-892.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-839.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-1021.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-809.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-494.php"
+                ]
+            },
+            {
+                "unix_timestamp": 1767420000,
+                "sport": "Ice Hockey",
+                "tournament": "NHL",
+                "match": "Winnipeg Jets vs Toronto Maple Leafs",
+                "channels": [
+                    "https:\/\/dlhd.dad\/stream\/stream-663.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-113.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-406.php"
+                ]
+            },
+            {
+                "unix_timestamp": 1767420000,
+                "sport": "Ice Hockey",
+                "tournament": "NHL",
+                "match": "Tampa Bay Lightning vs Los Angeles Kings",
+                "channels": [
+                    "https:\/\/dlhd.dad\/stream\/stream-451.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-906.php"
+                ]
+            },
+            {
+                "unix_timestamp": 1767423600,
+                "sport": "Basketball",
+                "tournament": "NBA",
+                "match": "Dallas Mavericks vs Philadelphia 76ers",
+                "channels": [
+                    "https:\/\/dlhd.dad\/stream\/stream-404.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-777.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-115.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-379.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-116.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-61.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-98.php"
+                ]
+            },
+            {
+                "unix_timestamp": 1767423600,
+                "sport": "Ice Hockey",
+                "tournament": "NHL",
+                "match": "Dallas Stars vs Chicago Blackhawks",
+                "channels": [
+                    "https:\/\/dlhd.dad\/stream\/stream-776.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-411.php"
+                ]
+            },
+            {
+                "unix_timestamp": 1767427200,
+                "sport": "American Football",
+                "tournament": "NCAAF",
+                "match": "No. 3 Georgia vs. No. 6 Ole Miss | Sugar Bowl (CFP Quarterfinal)",
+                "channels": [
+                    "https:\/\/dlhd.dad\/stream\/stream-111.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-114.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-44.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-45.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-316.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-385.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-495.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-375.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-101.php"
+                ]
+            },
+            {
+                "unix_timestamp": 1767427200,
+                "sport": "Basketball",
+                "tournament": "NCAA",
+                "match": "Hawaii vs UC Riverside",
+                "channels": [
+                    "https:\/\/dlhd.dad\/stream\/stream-982.php"
+                ]
+            },
+            {
+                "unix_timestamp": 1767430800,
+                "sport": "Basketball",
+                "tournament": "NBA",
+                "match": "Sacramento Kings vs Boston Celtics",
+                "channels": [
+                    "https:\/\/dlhd.dad\/stream\/stream-755.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-754.php"
+                ]
+            },
+            {
+                "unix_timestamp": 1767430800,
+                "sport": "Ice Hockey",
+                "tournament": "NHL",
+                "match": "Nashville Predators vs Seattle Kraken",
+                "channels": [
+                    "https:\/\/dlhd.dad\/stream\/stream-407.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-408.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-892.php",
+                    "https:\/\/dlhd.dad\/stream\/stream-904.php"
+                ]
+            },
+            {
+                "unix_timestamp": 1767434400,
+                "sport": "Basketball",
+                "tournament": "NBA",
+                "match": "Los Angeles Clippers vs Utah Jazz",
+                "channels": [
+                    "https:\/\/dlhd.dad\/stream\/stream-902.php"
                 ]
             }
         ]
