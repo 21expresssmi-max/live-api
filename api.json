@@ -1,15 +1,19 @@
 {
     "events": {
-        "2026-01-03": [
+        "2026-01-04": [
             {
-                "unix_timestamp": 1767417600,
-                "sport": "Water Polo",
-                "tournament": "Trebinje Cup 2026",
-                "match": "Italy vs Spain",
+                "unix_timestamp": 1767522600,
+                "sport": "Cycling",
+                "tournament": "UCI Cyclo-Cross World Cup",
+                "match": "Zonhoven",
                 "channels": [
-                    "https:\/\/topembed.pw\/channel\/ArenaPremium3[Serbia]",
-                    "https:\/\/antenasport.top\/arena3premiumserbia.php",
-                    "https:\/\/dlhd.dad\/stream\/stream-139.php"
+                    "https:\/\/topembed.pw\/channel\/TNTSports4[UK]",
+                    "https:\/\/topembed.pw\/channel\/Eurosport1[Poland]",
+                    "https:\/\/topembed.pw\/channel\/Eurosport1[Spain]",
+                    "https:\/\/topembed.pw\/channel\/Eurosport1[France]",
+                    "https:\/\/antenasport.top\/eurosport1fr.php",
+                    "https:\/\/topembed.pw\/channel\/Eurosport1[Italy]",
+                    "https:\/\/topembed.pw\/channel\/Eurosport1[Greece]"
                 ]
             }
         ]
