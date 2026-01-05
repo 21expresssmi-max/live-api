@@ -495,8 +495,10 @@
                 "unix_timestamp": 1767677400,
                 "sport": "Ice Hockey",
                 "tournament": "2026 IIHF World Junior Championship",
-                "match": "Bronze Medal Match: Teams TBA",
+                "match": "Bronze Medal Match: Canada U20 vs Finland U20",
                 "channels": [
+                    "https://fl1.moveonjoy.com/TSN_4/mpegts",
+                    "https://fl1.moveonjoy.com/TSN_1/mpegts",
                     "https:\/\/topembed.pw\/channel\/NHLNetwork[USA]",
                     "https:\/\/antenasport.top\/nhl.php",
                     "https:\/\/topembed.pw\/channel\/TSN1[Canada]",
@@ -712,8 +714,10 @@
                 "unix_timestamp": 1767688200,
                 "sport": "Ice Hockey",
                 "tournament": "2026 IIHF World Junior Championship",
-                "match": "Gold Medal Match Final: Teams TBA",
+                "match": "Gold Medal Match Final: Sweden U20 vs Czech Republic U20",
                 "channels": [
+                    "https://fl1.moveonjoy.com/TSN_4/mpegts",
+                    "https://fl1.moveonjoy.com/TSN_1/mpegts",
                     "https:\/\/topembed.pw\/channel\/NHLNetwork[USA]",
                     "https:\/\/antenasport.top\/nhl.php",
                     "https:\/\/topembed.pw\/channel\/TSN1[Canada]",
