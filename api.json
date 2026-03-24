@@ -78,8 +78,9 @@
         "tournament": "Tennis",
         "match": "2026 Miami Open Tennis ATP Round of 16; WTA Quarterfinal 1 &amp; 2",
         "channels": [
-          "https://dlstreams.top/stream/stream-40.php",
-          "https://dlstreams.top/stream/stream-36.php",
+          "https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-freelivesportsemea/playlist.m3u8",
+          "https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8",
+          "http://mytvstream.net:8080/live/30550113/30550113/57292.m3u8",
           "https://dlstreams.top/stream/stream-117.php",
           "https://dlstreams.top/stream/stream-46.php",
           "https://dlstreams.top/stream/stream-884.php",
@@ -110,7 +111,9 @@
         "tournament": "Tennis",
         "match": "2026 Miami Open",
         "channels": [
-          "https://dlstreams.top/stream/stream-111.php"
+          "https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-freelivesportsemea/playlist.m3u8",
+          "https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8",
+          "http://mytvstream.net:8080/live/30550113/30550113/57292.m3u8"
         ]
       },
       {
@@ -119,7 +122,7 @@
         "tournament": "College Softball",
         "match": "Seattle U vs Montana",
         "channels": [
-          "https://dlstreams.top/stream/stream-110.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -128,7 +131,7 @@
         "tournament": "College Softball",
         "match": "Rider vs Niagara",
         "channels": [
-          "https://dlstreams.top/stream/stream-151.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -137,7 +140,7 @@
         "tournament": "College Softball",
         "match": "Dartmouth vs Holy Cross",
         "channels": [
-          "https://dlstreams.top/stream/stream-152.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -184,7 +187,7 @@
         "tournament": "College Softball",
         "match": "Marist vs Mount St. Mary's.",
         "channels": [
-          "https://dlstreams.top/stream/stream-153.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -248,7 +251,8 @@
         "tournament": "MLB",
         "match": "Boston Red Sox vs Minnesota Twins",
         "channels": [
-          "https://dlstreams.top/stream/stream-399.php",
+          "http://41.205.93.154/ESPN/index.m3u8",
+          "https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8",
           "https://dlstreams.top/stream/stream-762.php",
           "https://dlstreams.top/stream/stream-407.php"
         ]
@@ -316,7 +320,7 @@
         "tournament": "TV Shows",
         "match": "Family Matters Season 6, Episode 12",
         "channels": [
-          "https://dlstreams.top/stream/stream-344.php"
+          "https://v13.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=ZMhQ9obMP7zCo2Zx979StA&expires=1774383845&user_id=U0RsMEVzRTBNV1hFRGpwQmRUYUlKRTJ5QWczV1RkYjVxT0tZbHFTbg=="
         ]
       },
       {
@@ -334,7 +338,7 @@
         "tournament": "College Softball",
         "match": "Rutgers vs Seton Hall",
         "channels": [
-          "https://dlstreams.top/stream/stream-154.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -343,7 +347,7 @@
         "tournament": "College Softball",
         "match": "Washington vs Loyola Chicago",
         "channels": [
-          "https://dlstreams.top/stream/stream-155.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -352,7 +356,7 @@
         "tournament": "College Softball",
         "match": "Murray State vs Belmont",
         "channels": [
-          "https://dlstreams.top/stream/stream-156.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -361,7 +365,7 @@
         "tournament": "College Softball",
         "match": "UMass Lowell vs UMass Amherst",
         "channels": [
-          "https://dlstreams.top/stream/stream-157.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -370,7 +374,7 @@
         "tournament": "College Softball",
         "match": "Dartmouth vs Holy Cross",
         "channels": [
-          "https://dlstreams.top/stream/stream-158.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -432,7 +436,7 @@
         "tournament": "College Softball",
         "match": "Rider vs Niagara",
         "channels": [
-          "https://dlstreams.top/stream/stream-159.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -441,7 +445,7 @@
         "tournament": "College Softball",
         "match": "Bucknell vs Cornell",
         "channels": [
-          "https://dlstreams.top/stream/stream-160.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -492,7 +496,7 @@
         "tournament": "College Softball",
         "match": "St. Thomas (MN) vs Iowa",
         "channels": [
-          "https://dlstreams.top/stream/stream-161.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -501,7 +505,7 @@
         "tournament": "College Softball",
         "match": "Northern Kentucky vs Dayton",
         "channels": [
-          "https://dlstreams.top/stream/stream-162.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -510,7 +514,7 @@
         "tournament": "College Softball",
         "match": "Marist vs Mount St. Mary's",
         "channels": [
-          "https://dlstreams.top/stream/stream-163.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -753,7 +757,7 @@
         "tournament": "College Softball",
         "match": "Charleston Southern vs Coastal Carolina",
         "channels": [
-          "https://dlstreams.top/stream/stream-164.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -762,7 +766,7 @@
         "tournament": "College Softball",
         "match": "Bellarmine vs Kentucky",
         "channels": [
-          "https://dlstreams.top/stream/stream-165.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -771,7 +775,7 @@
         "tournament": "College Softball",
         "match": "Grambling State vs East Texas A&amp;M",
         "channels": [
-          "https://dlstreams.top/stream/stream-166.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -780,7 +784,7 @@
         "tournament": "College Softball",
         "match": "Butler vs Ball State",
         "channels": [
-          "https://dlstreams.top/stream/stream-167.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -822,7 +826,7 @@
         "tournament": "Wrestling",
         "match": "WWE NXT",
         "channels": [
-          "https://dlstreams.top/stream/stream-300.php",
+          "https://v2.thetvapp.to/hls/cw-wdcw-district-of-columbia/tracks-v1a1/mono.m3u8?token=3Zh3U_fE6jbLe8eJV2_GCw&expires=1774384040&user_id=U0RsMEVzRTBNV1hFRGpwQmRUYUlKRTJ5QWczV1RkYjVxT0tZbHFTbg==",
           "https://dlstreams.top/stream/stream-280.php",
           "https://dlstreams.top/stream/stream-418.php",
           "https://dlstreams.top/stream/stream-412.php"
@@ -834,7 +838,7 @@
         "tournament": "College Softball",
         "match": "Murray State vs Belmont",
         "channels": [
-          "https://dlstreams.top/stream/stream-168.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -843,7 +847,7 @@
         "tournament": "College Softball",
         "match": "Bucknell vs Cornell",
         "channels": [
-          "https://dlstreams.top/stream/stream-169.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -852,7 +856,7 @@
         "tournament": "College Softball",
         "match": "Radford vs Charlotte",
         "channels": [
-          "https://dlstreams.top/stream/stream-170.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -861,7 +865,7 @@
         "tournament": "College Softball",
         "match": "Pittsburgh vs Ohio",
         "channels": [
-          "https://dlstreams.top/stream/stream-171.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -870,7 +874,7 @@
         "tournament": "College Softball",
         "match": "Illinois-Chicago vs DePaul",
         "channels": [
-          "https://dlstreams.top/stream/stream-770.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -879,7 +883,7 @@
         "tournament": "College Softball",
         "match": "Toledo vs Michigan State",
         "channels": [
-          "https://dlstreams.top/stream/stream-172.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -888,7 +892,7 @@
         "tournament": "College Softball",
         "match": "Youngstown State vs St. Bonaventure",
         "channels": [
-          "https://dlstreams.top/stream/stream-173.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -906,7 +910,7 @@
         "tournament": "College Softball",
         "match": "St. Thomas (MN) vs Iowa",
         "channels": [
-          "https://dlstreams.top/stream/stream-174.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -915,7 +919,7 @@
         "tournament": "College Softball",
         "match": "North Florida vs Florida State",
         "channels": [
-          "https://dlstreams.top/stream/stream-175.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -924,7 +928,7 @@
         "tournament": "College Softball",
         "match": "SE Louisiana vs UL Monroe",
         "channels": [
-          "https://dlstreams.top/stream/stream-176.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -933,7 +937,7 @@
         "tournament": "College Softball",
         "match": "College of Charleston vs Georgia Southern",
         "channels": [
-          "https://dlstreams.top/stream/stream-177.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -942,7 +946,7 @@
         "tournament": "College Softball",
         "match": "West Georgia vs Georgia Tech",
         "channels": [
-          "https://dlstreams.top/stream/stream-178.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -951,7 +955,7 @@
         "tournament": "College Softball",
         "match": "Weber State vs Utah",
         "channels": [
-          "https://dlstreams.top/stream/stream-179.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -960,7 +964,7 @@
         "tournament": "College Softball",
         "match": "Northern Iowa vs Illinois",
         "channels": [
-          "https://dlstreams.top/stream/stream-180.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -969,7 +973,7 @@
         "tournament": "College Softball",
         "match": "Tennessee Tech vs Tennessee",
         "channels": [
-          "https://dlstreams.top/stream/stream-181.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -978,7 +982,7 @@
         "tournament": "College Softball",
         "match": "UC Davis vs Sacramento State",
         "channels": [
-          "https://dlstreams.top/stream/stream-182.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -987,7 +991,7 @@
         "tournament": "College Softball",
         "match": "Texas Tech vs Tarleton State",
         "channels": [
-          "https://dlstreams.top/stream/stream-183.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -996,7 +1000,7 @@
         "tournament": "College Softball",
         "match": "Missouri vs SIU Edwardsville",
         "channels": [
-          "https://dlstreams.top/stream/stream-184.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -1060,7 +1064,7 @@
         "tournament": "Tennis",
         "match": "Miami Open Mixed Coverage",
         "channels": [
-          "https://dlstreams.top/stream/stream-40.php"
+          "https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-freelivesportsemea/playlist.m3u8"
         ]
       },
       {
@@ -1069,7 +1073,9 @@
         "tournament": "Tennis",
         "match": "WTA Miami Open",
         "channels": [
-          "https://dlstreams.top/stream/stream-840.php"
+          "https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-freelivesportsemea/playlist.m3u8",
+          "https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8",
+          "http://mytvstream.net:8080/live/30550113/30550113/57292.m3u8"
         ]
       },
       {
@@ -1078,7 +1084,7 @@
         "tournament": "GL Golf",
         "match": "Los Angeles Golf Club vs Jupiter Links GC",
         "channels": [
-          "https://dlstreams.top/stream/stream-44.php",
+          "http://41.205.93.154/ESPN/index.m3u8",
           "https://dlstreams.top/stream/stream-70.php",
           "https://dlstreams.top/stream/stream-406.php",
           "https://dlstreams.top/stream/stream-408.php",
@@ -1104,7 +1110,7 @@
         "tournament": "College Softball",
         "match": "Louisiana Tech vs LSU",
         "channels": [
-          "https://dlstreams.top/stream/stream-185.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -1113,7 +1119,7 @@
         "tournament": "College Softball",
         "match": "McNeese vs Louisiana",
         "channels": [
-          "https://dlstreams.top/stream/stream-186.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -1122,7 +1128,7 @@
         "tournament": "College Softball",
         "match": "Sam Houston vs Texas A&amp;M",
         "channels": [
-          "https://dlstreams.top/stream/stream-187.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -1131,7 +1137,7 @@
         "tournament": "College Softball",
         "match": "Prairie View A&amp;M vs UTSA",
         "channels": [
-          "https://dlstreams.top/stream/stream-188.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -1147,9 +1153,9 @@
         "unix_timestamp": 1774368000,
         "sport": "NCAA Basketball",
         "tournament": "NCAA",
-        "match": "TBD vs TBD",
+        "match": "Wichita State vs Tulsa",
         "channels": [
-          "https://dlstreams.top/stream/stream-45.php"
+          "http://mytvstream.net:8080/live/30550113/30550113/2210.m3u8"
         ]
       },
       {
@@ -1176,7 +1182,7 @@
         "tournament": "NBA",
         "match": "Charlotte Hornets vs Sacramento Kings",
         "channels": [
-          "https://dlstreams.top/stream/stream-1.php",
+          "http://mytvstream.net:8080/live/30550113/30550113/20940.m3u8",
           "https://dlstreams.top/stream/stream-755.php"
         ]
       },
@@ -1296,7 +1302,7 @@
         "tournament": "College Softball",
         "match": "UT Arlington vs Baylor",
         "channels": [
-          "https://dlstreams.top/stream/stream-189.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -1404,7 +1410,7 @@
         "tournament": "Golf",
         "match": "World Long Drive WLD MB Invitational Final",
         "channels": [
-          "https://dlstreams.top/stream/stream-318.php"
+          "https://v3.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8?token=R6soxqaN2qurV3huQMtaTw&expires=1774383593&user_id=U0RsMEVzRTBNV1hFRGpwQmRUYUlKRTJ5QWczV1RkYjVxT0tZbHFTbg=="
         ]
       },
       {
@@ -1413,7 +1419,7 @@
         "tournament": "College Softball",
         "match": "BYU vs Utah Valley",
         "channels": [
-          "https://dlstreams.top/stream/stream-190.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -1524,7 +1530,8 @@
         "tournament": "MLB",
         "match": "Los Angeles Angels vs Los Angeles Dodgers",
         "channels": [
-          "https://dlstreams.top/stream/stream-399.php"
+          "http://41.205.93.154/ESPN/index.m3u8",
+          "https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8"
         ]
       },
       {
@@ -1652,7 +1659,7 @@
         "tournament": "Motorsport",
         "match": "High Limit Racing Vado Speedway Park",
         "channels": [
-          "https://dlstreams.top/stream/stream-39.php"
+          "http://mytvstream.net:8080/live/30550113/30550113/1846.m3u8"
         ]
       },
       {
@@ -1661,7 +1668,7 @@
         "tournament": "Golf",
         "match": "TGL '26: Los Angeles Golf Club vs Jupiter Links GC Final 3",
         "channels": [
-          "https://dlstreams.top/stream/stream-70.php",
+          "http://41.205.93.154/ESPN/index.m3u8",
           "https://dlstreams.top/stream/stream-44.php",
           "https://dlstreams.top/stream/stream-588.php",
           "https://dlstreams.top/stream/stream-901.php",
@@ -1675,7 +1682,7 @@
         "tournament": "College Softball",
         "match": "Grand Canyon vs Arizona",
         "channels": [
-          "https://dlstreams.top/stream/stream-191.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -1684,7 +1691,7 @@
         "tournament": "College Softball",
         "match": "UC Santa Barbara vs California Baptist",
         "channels": [
-          "https://dlstreams.top/stream/stream-192.php"
+          "http://41.205.93.154/ESPN/index.m3u8"
         ]
       },
       {
@@ -1700,9 +1707,9 @@
         "unix_timestamp": 1774375200,
         "sport": "NCAA Basketball",
         "tournament": "NCAA",
-        "match": "TBD vs TBD",
+        "match": "New Mexico vs Saint Josephs Hawks",
         "channels": [
-          "https://dlstreams.top/stream/stream-45.php"
+          "http://mytvstream.net:8080/live/30550113/30550113/2210.m3u8"
         ]
       },
       {
@@ -1900,7 +1907,7 @@
         "tournament": "Upcoming Events",
         "match": "The 2026 Miami Open Tennis tournament - Monday, March 16 to March 29",
         "channels": [
-          "https://dlstreams.top/stream/stream-40.php"
+          "https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-freelivesportsemea/playlist.m3u8"
         ]
       },
       {
