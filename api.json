@@ -986,6 +986,57 @@
         ]
       },
       {
+        "unix_timestamp": 1774674000,
+        "sport": "Ice Skating",
+        "tournament": "Ice Skating",
+        "match": "World Championships | Prague Men | Free Program",
+        "channels": [
+          "https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8",
+          "https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8",
+          "https://viewembed.ru/channel/Eurosport1%5BPoland%5D",
+          "https://viewembed.ru/channel/Eurosport1%5BSpain%5D",
+          "https://viewembed.ru/channel/Eurosport1%5BFrance%5D",
+          "https://dlstreams.top/stream/stream-231.php",
+          "https://dlstreams.top/stream/stream-878.php",
+          "https://dlstreams.top/stream/stream-41.php"
+        ]
+      },
+      {
+        "unix_timestamp": 1774683300,
+        "sport": "Ice Skating",
+        "tournament": "Ice Skating",
+        "match": "Figure skating: World Championships Men's Free Program.",
+        "channels": [
+          "https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8",
+          "https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8"
+        ]
+      },
+      {
+        "unix_timestamp": 1774692000,
+        "sport": "Ice Skating",
+        "tournament": "Ice Skating",
+        "match": "2026 World Figure Skating Championships",
+        "channels": [
+          "https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8",
+          "https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8",
+          "https://viewembed.ru/channel/Eurosport1%5BPoland%5D",
+          "https://viewembed.ru/channel/Eurosport1%5BSpain%5D",
+          "https://viewembed.ru/channel/Eurosport1%5BFrance%5D",
+          "https://dlstreams.top/stream/stream-878.php",
+          "https://dlstreams.top/stream/stream-41.php"
+        ]
+      },
+            {
+        "unix_timestamp": 1774700100,
+        "sport": "Ice Skating",
+        "tournament": "Ice Skating",
+        "match": "Figure skating: World Championships Free dance program",
+        "channels": [
+          "https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8",
+          "https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8"
+        ]
+      },
+      {
         "unix_timestamp": 1774656000,
         "sport": "Tennis",
         "tournament": "Morelia, Mexico",
