@@ -4475,7 +4475,7 @@
         "tournament": "NHL",
         "match": "Tampa Bay Lightning vs Ottawa Senators",
         "channels": [
-          "https://viewembed.ru/channel/bet12136762"
+          "https://cdn-live.tv/api/v1/channels/player/?name=sky+sports+action&code=gb&user=cdnlivetv&plan=free"
         ]
       },
       {
