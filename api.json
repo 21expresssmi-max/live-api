@@ -4905,6 +4905,95 @@
         ]
       },
       {
+        "unix_timestamp": 1775276148,
+        "sport": "AFL",
+        "tournament": "AFL",
+        "match": "North Melbourne Kangaroos vs Carlton Blues",
+        "channels": [
+          "https://cdn-live.tv/api/v1/channels/player/?name=fox+soccer+plus&code=us&user=cdnlivetv&plan=free",
+          "https://cdn-live.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free",
+          "https://cdn-live.tv/api/v1/channels/player/?name=tsn+5&code=ca&user=cdnlivetv&plan=free"
+        ]
+      },
+      {
+        "unix_timestamp": 1775290548,
+        "sport": "AFL",
+        "tournament": "AFL",
+        "match": "Adelaide Crows vs Fremantle Dockers",
+        "channels": [
+          "https://cdn-live.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free",
+          "https://cdn-live.tv/api/v1/channels/player/?name=fox+sports+1&code=us&user=cdnlivetv&plan=free",
+          "https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free"
+        ]
+      },
+      {
+        "unix_timestamp": 1775284200,
+        "sport": "Rugby League",
+        "tournament": "NRL",
+        "match": "St.George Illawarra vs NQ Cowboys",
+        "channels": [
+          "https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free"
+        ]
+      },
+      {
+        "unix_timestamp": 1775291700,
+        "sport": "Rugby League",
+        "tournament": "NRL",
+        "match": "Gold Coast Titans vs Brisbane Broncos",
+        "channels": [
+          "https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free",
+          "https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+3&code=fr&user=cdnlivetv&plan=free",
+          "https://cdn-live.tv/api/v1/channels/player/?name=sky+sports+action&code=gb&user=cdnlivetv&plan=free",
+          "https://cdn-live.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free",
+          "https://cdn-live.tv/api/v1/channels/player/?name=sport+1&code=de&user=cdnlivetv&plan=free"
+        ]
+      },
+      {
+        "unix_timestamp": 1775325600,
+        "sport": "Boxing",
+        "tournament": "Boxing",
+        "match": "Deontay Wilder vs Dereck Chisora",
+        "channels": [
+          "https://dlstreams.top/stream/stream-55.php"
+        ]
+      },
+      {
+        "unix_timestamp": 1775311200,
+        "sport": "High School Basketball",
+        "tournament": "Girls High School Basketball",
+        "match": "Chipotle High School Basketball Nationals",
+        "channels": [
+          "https://cdn-live.tv/api/v1/channels/player/?name=espn+2&code=us&user=cdnlivetv&plan=free"
+        ]
+      },
+      {
+        "unix_timestamp": 1775313000,
+        "sport": "High School Basketball",
+        "tournament": "Girls High School Basketball",
+        "match": "Vicki Brick-Zupancic DMV Girls All-Star Game",
+        "channels": [
+          "https://dlstreams.top/stream/stream-778.php"
+        ]
+      },
+      {
+        "unix_timestamp": 1775320200,
+        "sport": "High School Basketball",
+        "tournament": "Boys High School Basketball",
+        "match": "53rd Annual Capital Classic",
+        "channels": [
+          "https://dlstreams.top/stream/stream-778.php"
+        ]
+      },
+      {
+        "unix_timestamp": 1775320200,
+        "sport": "High School Basketball",
+        "tournament": "Boys High School Basketball",
+        "match": "Chipotle High School Basketball Nationals",
+        "channels": [
+          "https://cdn-live.tv/api/v1/channels/player/?name=espn+2&code=us&user=cdnlivetv&plan=free"
+        ]
+      },
+      {
         "unix_timestamp": 1775334600,
         "sport": "MMA",
         "tournament": "UFC Fight Night",
