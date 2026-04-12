@@ -9,7 +9,7 @@
         "channels": [
           "http://dhoomtv.xyz/P4B9TB9xR8/humongous2tonight/186627",
           "http://nor1live.win/livehttpplay?channel_id=23133",
-          "https://s.rocketdns.info/live/superreal1/superreal1/2337.m3u8"
+          "https://s.rocketdns.info/live/superreal1/superreal1/2337.m3u8",
           "http://145.239.5.177/530/index.m3u8",
           "https://dlstreams.top/stream/stream-31.php",
           "https://dlstreams.top/stream/stream-772.php"
@@ -23,13 +23,13 @@
         "channels": [
           "http://dhoomtv.xyz/P4B9TB9xR8/humongous2tonight/186627",
           "http://nor1live.win/livehttpplay?channel_id=23133",
-          "https://s.rocketdns.info/live/superreal1/superreal1/2337.m3u8"
+          "https://s.rocketdns.info/live/superreal1/superreal1/2337.m3u8",
           "http://145.239.5.177/530/index.m3u8",
           "https://dlstreams.top/stream/stream-31.php",
           "https://dlstreams.top/stream/stream-772.php"
         ]
       },
-            {
+      {
         "unix_timestamp": 1775968200,
         "sport": "Rugby Union",
         "tournament": "Challenge Cup",
