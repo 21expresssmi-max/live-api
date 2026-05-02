@@ -110,6 +110,28 @@
         ]
       },
       {
+        "unix_timestamp": 1777764600,
+        "sport": "NBA",
+        "tournament": "NBA",
+        "match": "Boston Celtics vs Philadelphia 76ers",
+        "channels": [
+          "https://streams.center/embed/ch65.php",
+          "https://atletifan.com/atm/?fans=1",
+          "https://dlstreams.top/stream/stream-10.php",
+          "https://dlstreams.top/stream/stream-10.php",
+          "https://dlstreams.top/stream/stream-53.php",
+          "https://dlstreams.top/stream/stream-769.php",
+          "https://dlstreams.top/stream/stream-114.php",
+          "https://dlstreams.top/stream/stream-411.php",
+          "https://dlstreams.top/stream/stream-134.php",
+          "https://dlstreams.top/stream/stream-116.php",
+          "https://dlstreams.top/stream/stream-556.php",
+          "https://dlstreams.top/stream/stream-465.php",
+          "https://dlstreams.top/stream/stream-3001.php",
+          "https://dlstreams.top/stream/stream-5037.php"
+        ]
+      },
+      {
         "unix_timestamp": 1777755600,
         "sport": "Upcoming Events",
         "tournament": "Upcoming Events",
