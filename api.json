@@ -204,7 +204,7 @@
         "tournament": "NBA",
         "match": "New York Knicks vs Cleveland Cavaliers",
         "channels": [
-          "http://41.205.93.154/ESPN/index.m3u8"
+          "https://v14.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=jyVXr03y6wkWa7Qia9MAmQ&expires=1779390363&user_id=UTVqVmhRSml3eG04WUVEODAzbzVObkk2Q3pTckRSV2FzUDVRcm9EQQ=="
         ]
       }
     ]
