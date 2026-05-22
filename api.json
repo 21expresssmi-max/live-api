@@ -195,7 +195,7 @@
         "tournament": "NHL",
         "match": "Carolina Hurricanes vs Montreal Canadiens",
         "channels": [
-          "https://v2.thetvapp.to/hls/truTVEast/tracks-v1a1/mono.m3u8?token=NO5GWLn_Z2wNkNvyoEuE6w&expires=1779389657&user_id=UTVqVmhRSml3eG04WUVEODAzbzVObkk2Q3pTckRSV2FzUDVRcm9EQQ=="
+          "https://v14.thetvapp.to/hls/truTVEast/tracks-v1a1/mono.m3u8?token=vcZQZ9DCPQ1lCEKUb2nrEg&expires=1779429487&user_id=Sk1vOXFjWk9GMkhJam1KaGZVM1JZRnRwd3lQZWRYQ29hNGFmalpHWA=="
         ]
       },
       {
@@ -204,7 +204,7 @@
         "tournament": "NBA",
         "match": "New York Knicks vs Cleveland Cavaliers",
         "channels": [
-          "https://v14.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=jyVXr03y6wkWa7Qia9MAmQ&expires=1779390363&user_id=UTVqVmhRSml3eG04WUVEODAzbzVObkk2Q3pTckRSV2FzUDVRcm9EQQ=="
+          "https://e3.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=yazCggSUunTR2-bvG_XDzg&expires=1779429415&user_id=Sk1vOXFjWk9GMkhJam1KaGZVM1JZRnRwd3lQZWRYQ29hNGFmalpHWA=="
         ]
       }
     ]
