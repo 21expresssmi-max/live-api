@@ -1,69 +1,149 @@
 {
   "events": {
-    "2026-05-22": [
+    "2026-05-23": [
       {
-        "unix_timestamp": 1779462000,
-        "sport": "Athletics (T&F)",
-        "tournament": "Athletics (T&F)",
-        "match": "IHSAA Track and Field State Championships - Day 2",
+        "unix_timestamp": 1779620400,
+        "sport": "Athletics",
+        "tournament": "Athletics",
+        "match": "IAAF Diamond League - Xiamen",
         "channels": [
-          "https://e4.thetvapp.to/hls/marquee-sports-network/tracks-v1a1/mono.m3u8?token=_jmZV6Cbs_kF8Vj3bxud2g&expires=1779482325&user_id=b0xFYmExTzBNY3ZOS3c5blNOaHg0SU1NYnRwT0owVkszQzdweGVDdg=="
+          "https://chat.cfbu247.sbs/api/proxy/player?token=eyJjaGFubmVsSWQiOiI0NyIsInRzIjoxNzc5NTM3NDUzMDEzfQ
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJyZWZlcmVyIjoiaHR0cHM6Ly9kb25pcy5qaW1wZW5vcGlzb25saW5lLm9ubGluZS9wcmVtaXVtdHYvZGFkZHkyLnBocD9pZD00NyIsIm0zdTgiOiJodHRwczovL2tvbGlzLnBoYW50ZW1saXMudG9wL3ByZW1pdW00Ny90cmFja3MtdjFhMS9tb25vLm0zdTg_bWQ1PTVRSmNFdDdCWnVjY1VZMjFRUVpBTWcmZXhwaXJlcz0xNzc5NTQwNDAxIiwidHMiOjE3Nzk1Mzc2Njk2MjgsImNoYW5uZWxJZCI6IjQ3In0"
         ]
       },
       {
-        "unix_timestamp": 1779494400,
-        "sport": "Ice Hockey (NHL)",
-        "tournament": "NHL",
-        "match": "Colorado Avalanche vs Vegas Golden Knights",
+        "unix_timestamp": 1779544800,
+        "sport": "Athletics",
+        "tournament": "Athletics",
+        "match": "IHSAA Track and Field State Championships - Day 3",
         "channels": [
-          "https://v15.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=f6eF5T5X-w0CZ24J-RqCOQ&expires=1779482034&user_id=b0xFYmExTzBNY3ZOS3c5blNOaHg0SU1NYnRwT0owVkszQzdweGVDdg==",
-          "https://v12.thetvapp.to/hls/tsn4/tracks-v1a1/mono.m3u8?token=CckjCXA4vE_EnQo0-L5i3w&expires=1779481820&user_id=b0xFYmExTzBNY3ZOS3c5blNOaHg0SU1NYnRwT0owVkszQzdweGVDdg=="
+          "https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJyZWZlcmVyIjoiaHR0cHM6Ly9kb25pcy5qaW1wZW5vcGlzb25saW5lLm9ubGluZS9wcmVtaXVtdHYvZGFkZHk1LnBocD9pZD03NzAiLCJtM3U4IjoiaHR0cHM6Ly96YWxpcy5waGFudGVtbGlzLnRvcC9wcmVtaXVtNzcwL3RyYWNrcy12MWExL21vbm8ubTN1OD9tZDU9YVp4bXRCdVp3TXo5ajJCT0s0MXVVQSZleHBpcmVzPTE3Nzk1NDExNTciLCJ0cyI6MTc3OTUzNzU1ODAzNywiY2hhbm5lbElkIjoiNzcwIn0"
         ]
       },
       {
-        "unix_timestamp": 1779459600,
-        "sport": "IIHF Ice Hockey",
-        "tournament": "IIHF World Championship",
-        "match": "Canada vs Slovenia",
+        "unix_timestamp": 1779555600,
+        "sport": "Boxing",
+        "tournament": "Boxing WBA",
+        "match": "Oleksandr Usyk and Rico Verhoeven",
         "channels": [
-          "https://v2.thetvapp.to/hls/tsn1/tracks-v1a1/mono.m3u8?token=gmENZV7zQ3rOgmDIe4t8cw&expires=1779482140&user_id=b0xFYmExTzBNY3ZOS3c5blNOaHg0SU1NYnRwT0owVkszQzdweGVDdg=="
+          "https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJyZWZlcmVyIjoiaHR0cHM6Ly9kb25pcy5qaW1wZW5vcGlzb25saW5lLm9ubGluZS9wcmVtaXVtdHYvZGFkZHkzLnBocD9pZD00NCIsIm0zdTgiOiJodHRwczovL3ZvbW9zLnBoYW50ZW1saXMudG9wL3ByZW1pdW00NC90cmFja3MtdjFhMS9tb25vLm0zdTg_bWQ1PXdaWk9PLVNVVzh5ZVZ3UXNObHU1SkEmZXhwaXJlcz0xNzc5NTQxMTc3IiwidHMiOjE3Nzk1Mzc3NTk0NjQsImNoYW5uZWxJZCI6IjQ0In0"
         ]
       },
       {
-        "unix_timestamp": 1779459600,
-        "sport": "IIHF Ice Hockey",
-        "tournament": "IIHF World Championship",
-        "match": "Germany vs Hungary",
-        "channels": [
-          "https://v12.thetvapp.to/hls/tsn4/tracks-v1a1/mono.m3u8?token=CckjCXA4vE_EnQo0-L5i3w&expires=1779481820&user_id=b0xFYmExTzBNY3ZOS3c5blNOaHg0SU1NYnRwT0owVkszQzdweGVDdg=="
-        ]
-      },
-      {
-        "unix_timestamp": 1779474000,
-        "sport": "IIHF Ice Hockey",
-        "tournament": "IIHF World Championship",
-        "match": "Finland vs Great Britain",
-        "channels": [
-          "https://v12.thetvapp.to/hls/tsn4/tracks-v1a1/mono.m3u8?token=CckjCXA4vE_EnQo0-L5i3w&expires=1779481820&user_id=b0xFYmExTzBNY3ZOS3c5blNOaHg0SU1NYnRwT0owVkszQzdweGVDdg=="
-        ]
-      },
-      {
-        "unix_timestamp": 1779474000,
-        "sport": "IIHF Ice Hockey",
-        "tournament": "IIHF World Championship",
-        "match": "Sweden vs Italy",
-        "channels": [
-          "https://v2.thetvapp.to/hls/tsn1/tracks-v1a1/mono.m3u8?token=gmENZV7zQ3rOgmDIe4t8cw&expires=1779482140&user_id=b0xFYmExTzBNY3ZOS3c5blNOaHg0SU1NYnRwT0owVkszQzdweGVDdg=="
-        ]
-      },
-      {
-        "unix_timestamp": 1779496200,
+        "unix_timestamp": 1779580800,
         "sport": "NBA",
         "tournament": "NBA",
-        "match": "San Antonio Spurs vs Oklahoma City Thunder",
+        "match": "Cleveland Cavaliers vs New York Knicks",
         "channels": [
-          "https://v12.thetvapp.to/hls/tsn4/tracks-v1a1/mono.m3u8?token=CckjCXA4vE_EnQo0-L5i3w&expires=1779481820&user_id=b0xFYmExTzBNY3ZOS3c5blNOaHg0SU1NYnRwT0owVkszQzdweGVDdg==",
-          "https://v18.thetvapp.to/hls/tsn5/tracks-v1a1/mono.m3u8?token=1G6ThTXPTtySQlZwTnJ3Ig&expires=1779481879&user_id=b0xFYmExTzBNY3ZOS3c5blNOaHg0SU1NYnRwT0owVkszQzdweGVDdg=="
+          "https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJyZWZlcmVyIjoiaHR0cHM6Ly9kb25pcy5qaW1wZW5vcGlzb25saW5lLm9ubGluZS9wcmVtaXVtdHYvZGFkZHkzLnBocD9pZD00NCIsIm0zdTgiOiJodHRwczovL3ZvbW9zLnBoYW50ZW1saXMudG9wL3ByZW1pdW00NC90cmFja3MtdjFhMS9tb25vLm0zdTg_bWQ1PXdaWk9PLVNVVzh5ZVZ3UXNObHU1SkEmZXhwaXJlcz0xNzc5NTQxMTc3IiwidHMiOjE3Nzk1Mzc3NTk0NjQsImNoYW5uZWxJZCI6IjQ0In0"
+        ]
+      },
+      {
+        "unix_timestamp": 1779609600,
+        "sport": "Climbing",
+        "tournament": "Climbing",
+        "match": "World Series | Bern Women's Boulder | Semi Final",
+        "channels": [
+          "https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJyZWZlcmVyIjoiaHR0cHM6Ly9kb25pcy5qaW1wZW5vcGlzb25saW5lLm9ubGluZS9wcmVtaXVtdHYvZGFkZHkucGhwP2lkPTM0IiwibTN1OCI6Imh0dHBzOi8vcG9udG9zLnBoYW50ZW1saXMudG9wL3ByZW1pdW0zNC90cmFja3MtdjFhMS9tb25vLm0zdTg_bWQ1PTNyOHB5X3lTZjZsMVZpNVhWYXU4SFEmZXhwaXJlcz0xNzc5NTM5Nzg2IiwidHMiOjE3Nzk1Mzc4MDE5MTIsImNoYW5uZWxJZCI6IjM0In0"
+        ]
+      },
+      {
+        "unix_timestamp": 1779554700,
+        "sport": "Socca EuroCup Futsal",
+        "tournament": "Socca EuroCup Futsal",
+        "match": "Socca: EuroCup: 1/4 Final 1",
+        "channels": [
+          "https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJyZWZlcmVyIjoiaHR0cHM6Ly9kb25pcy5qaW1wZW5vcGlzb25saW5lLm9ubGluZS9wcmVtaXVtdHYvZGFkZHkzLnBocD9pZD0zNjUiLCJtM3U4IjoiaHR0cHM6Ly92b21vcy5waGFudGVtbGlzLnRvcC9wcmVtaXVtMzY1L3RyYWNrcy12MWExL21vbm8ubTN1OD9tZDU9RGpJNkhIWHN3d1dVWkk0UjVMcDZJZyZleHBpcmVzPTE3Nzk1NDE0NTAiLCJ0cyI6MTc3OTUzNzg1MDcyNiwiY2hhbm5lbElkIjoiMzY1In0"
+        ]
+      },
+      {
+        "unix_timestamp": 1779558300,
+        "sport": "GAA",
+        "tournament": "GAA",
+        "match": "Galway vs Kildare",
+        "channels": [
+          "https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJyZWZlcmVyIjoiaHR0cHM6Ly9kb25pcy5qaW1wZW5vcGlzb25saW5lLm9ubGluZS9wcmVtaXVtdHYvZGFkZHkzLnBocD9pZD0zNjUiLCJtM3U4IjoiaHR0cHM6Ly92b21vcy5waGFudGVtbGlzLnRvcC9wcmVtaXVtMzY1L3RyYWNrcy12MWExL21vbm8ubTN1OD9tZDU9RGpJNkhIWHN3d1dVWkk0UjVMcDZJZyZleHBpcmVzPTE3Nzk1NDE0NTAiLCJ0cyI6MTc3OTUzNzg1MDcyNiwiY2hhbm5lbElkIjoiMzY1In0"
+        ]
+      },
+      {
+        "unix_timestamp": 1779573600,
+        "sport": "Gymnastics",
+        "tournament": "Gymnastics",
+        "match": "World Artistic Gymnastics Challenge Cup: Tashkent",
+        "channels": [
+          "https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJyZWZlcmVyIjoiaHR0cHM6Ly9kb25pcy5qaW1wZW5vcGlzb25saW5lLm9ubGluZS9wcmVtaXVtdHYvZGFkZHkzLnBocD9pZD0xNDQiLCJtM3U4IjoiaHR0cHM6Ly92b21vcy5waGFudGVtbGlzLnRvcC9wcmVtaXVtMTQ0L3RyYWNrcy12MWExL21vbm8ubTN1OD9tZDU9ZnFqSXRhQXg0VHFvbTNuTUpJYk9xUSZleHBpcmVzPTE3Nzk1NDA0MDIiLCJ0cyI6MTc3OTUzNzg4OTk1NCwiY2hhbm5lbElkIjoiMTQ0In0"
+        ]
+      },
+      {
+        "unix_timestamp": 1779577200,
+        "sport": "Ice Hockey (NHL)",
+        "tournament": "NHL",
+        "match": "Carolina Hurricanes vs Montreal Canadiens",
+        "channels": [
+          "https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJyZWZlcmVyIjoiaHR0cHM6Ly9kb25pcy5qaW1wZW5vcGlzb25saW5lLm9ubGluZS9wcmVtaXVtdHYvZGFkZHk0LnBocD9pZD0zNDEiLCJtM3U4IjoiaHR0cHM6Ly9mb21pcy5waGFudGVtbGlzLnRvcC9wcmVtaXVtMzQxL3RyYWNrcy12MWExL21vbm8ubTN1OD9tZDU9TW9yMkJ2Y3lrSkpaQUdHSFhVOGRmZyZleHBpcmVzPTE3Nzk1NDA4MTIiLCJ0cyI6MTc3OTUzNzkzMDIwNCwiY2hhbm5lbElkIjoiMzQxIn0"
+        ]
+      },
+      {
+        "unix_timestamp": 1779618000,
+        "sport": "IIHF Ice Hockey",
+        "tournament": "IIHF World Championship",
+        "match": "Latvia vs USA",
+        "channels": [
+          "https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJyZWZlcmVyIjoiaHR0cHM6Ly9kb25pcy5qaW1wZW5vcGlzb25saW5lLm9ubGluZS9wcmVtaXVtdHYvZGFkZHkzLnBocD9pZD0xMTMiLCJtM3U4IjoiaHR0cHM6Ly92b21vcy5waGFudGVtbGlzLnRvcC9wcmVtaXVtMTEzL3RyYWNrcy12MWExL21vbm8ubTN1OD9tZDU9QVMxejNseHA0cnIxZGN5eGRuRTJadyZleHBpcmVzPTE3Nzk1NDA1MTIiLCJ0cyI6MTc3OTUzODAzOTc3MiwiY2hhbm5lbElkIjoiMTEzIn0"
+        ]
+      },
+      {
+        "unix_timestamp": 1779618000,
+        "sport": "IIHF Ice Hockey",
+        "tournament": "IIHF World Championship",
+        "match": "Denmark vs Slovenia",
+        "channels": [
+          "https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJyZWZlcmVyIjoiaHR0cHM6Ly9kb25pcy5qaW1wZW5vcGlzb25saW5lLm9ubGluZS9wcmVtaXVtdHYvZGFkZHkzLnBocD9pZD0xMTEiLCJtM3U4IjoiaHR0cHM6Ly92b21vcy5waGFudGVtbGlzLnRvcC9wcmVtaXVtMTExL3RyYWNrcy12MWExL21vbm8ubTN1OD9tZDU9NjlfS29fVXowRm1GemxxZllETGUtdyZleHBpcmVzPTE3Nzk1NDA1NDMiLCJ0cyI6MTc3OTUzODA3NjI3NiwiY2hhbm5lbElkIjoiMTExIn0"
+        ]
+      },
+      {
+        "unix_timestamp": 1779546000,
+        "sport": "IIHF Ice Hockey",
+        "tournament": "IIHF World Championship",
+        "match": "Switzerland vs Hungary",
+        "channels": [
+          "https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJyZWZlcmVyIjoiaHR0cHM6Ly9kb25pcy5qaW1wZW5vcGlzb25saW5lLm9ubGluZS9wcmVtaXVtdHYvZGFkZHkyLnBocD9pZD00NyIsIm0zdTgiOiJodHRwczovL2tvbGlzLnBoYW50ZW1saXMudG9wL3ByZW1pdW00Ny90cmFja3MtdjFhMS9tb25vLm0zdTg_bWQ1PTVRSmNFdDdCWnVjY1VZMjFRUVpBTWcmZXhwaXJlcz0xNzc5NTQwNDAxIiwidHMiOjE3Nzk1MzgxMTg2MjQsImNoYW5uZWxJZCI6IjQ3In0"
+        ]
+      },
+      {
+        "unix_timestamp": 1779546000,
+        "sport": "IIHF Ice Hockey",
+        "tournament": "IIHF World Championship",
+        "match": "Slovakia vs Czech Republic",
+        "channels": [
+          "https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJyZWZlcmVyIjoiaHR0cHM6Ly9kb25pcy5qaW1wZW5vcGlzb25saW5lLm9ubGluZS9wcmVtaXVtdHYvZGFkZHkzLnBocD9pZD0xMTEiLCJtM3U4IjoiaHR0cHM6Ly92b21vcy5waGFudGVtbGlzLnRvcC9wcmVtaXVtMTExL3RyYWNrcy12MWExL21vbm8ubTN1OD9tZDU9NjlfS29fVXowRm1GemxxZllETGUtdyZleHBpcmVzPTE3Nzk1NDA1NDMiLCJ0cyI6MTc3OTUzODE1NDY3NCwiY2hhbm5lbElkIjoiMTExIn0"
+        ]
+      },
+      {
+        "unix_timestamp": 1779560400,
+        "sport": "IIHF Ice Hockey",
+        "tournament": "IIHF World Championship",
+        "match": "Austria vs Germany",
+        "channels": [
+          "https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJyZWZlcmVyIjoiaHR0cHM6Ly9kb25pcy5qaW1wZW5vcGlzb25saW5lLm9ubGluZS9wcmVtaXVtdHYvZGFkZHkyLnBocD9pZD00NyIsIm0zdTgiOiJodHRwczovL2tvbGlzLnBoYW50ZW1saXMudG9wL3ByZW1pdW00Ny90cmFja3MtdjFhMS9tb25vLm0zdTg_bWQ1PTVRSmNFdDdCWnVjY1VZMjFRUVpBTWcmZXhwaXJlcz0xNzc5NTQwNDAxIiwidHMiOjE3Nzk1MzgxODI5NTMsImNoYW5uZWxJZCI6IjQ3In0"
+        ]
+      },
+      {
+        "unix_timestamp": 1779560400,
+        "sport": "IIHF Ice Hockey",
+        "tournament": "IIHF World Championship",
+        "match": "Norway vs Sweden",
+        "channels": [
+          "https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJyZWZlcmVyIjoiaHR0cHM6Ly9kb25pcy5qaW1wZW5vcGlzb25saW5lLm9ubGluZS9wcmVtaXVtdHYvZGFkZHkzLnBocD9pZD0xMTEiLCJtM3U4IjoiaHR0cHM6Ly92b21vcy5waGFudGVtbGlzLnRvcC9wcmVtaXVtMTExL3RyYWNrcy12MWExL21vbm8ubTN1OD9tZDU9NjlfS29fVXowRm1GemxxZllETGUtdyZleHBpcmVzPTE3Nzk1NDA1NDMiLCJ0cyI6MTc3OTUzODIxMzI0NiwiY2hhbm5lbElkIjoiMTExIn0"
+        ]
+      },
+      {
+        "unix_timestamp": 1779616800,
+        "sport": "Triathlon",
+        "tournament": "Triathlon",
+        "match": "T100 Triathlon World Tour | Navarra-Pamplona Women",
+        "channels": [
+          "https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJyZWZlcmVyIjoiaHR0cHM6Ly9kb25pcy5qaW1wZW5vcGlzb25saW5lLm9ubGluZS9wcmVtaXVtdHYvZGFkZHkzLnBocD9pZD0xMTEiLCJtM3U4IjoiaHR0cHM6Ly92b21vcy5waGFudGVtbGlzLnRvcC9wcmVtaXVtMTExL3RyYWNrcy12MWExL21vbm8ubTN1OD9tZDU9NjlfS29fVXowRm1GemxxZllETGUtdyZleHBpcmVzPTE3Nzk1NDA1NDMiLCJ0cyI6MTc3OTUzODIxMzI0NiwiY2hhbm5lbElkIjoiMTExIn0"
         ]
       }
     ]
