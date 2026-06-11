@@ -3,32 +3,33 @@
     "2026-06-11": [
       {
         "unix_timestamp": 1781199000,
-        "sport": "football",
+        "sport": "FIFA World Cup 2026",
         "tournament": "FIFA World Cup 2026",
         "match": "FIFA World Cup Opening Ceremony: Mexico",
         "channels": [
           "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8",
-          "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8"
+          "https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8"
         ]
       },
       {
         "unix_timestamp": 1781204400,
-        "sport": "football",
+        "sport": "FIFA World Cup 2026",
         "tournament": "FIFA World Cup 2026",
         "match": "Mexico vs South Africa",
         "channels": [
           "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8",
-          "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8"        ]
+          "https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8"
+        ]
       },
       {
         "unix_timestamp": 1781229600,
-        "sport": "football",
+        "sport": "FIFA World Cup 2026",
         "tournament": "FIFA World Cup 2026",
         "match": "Korea Republic vs Czech Republic",
         "channels": [
-        "channels": [
           "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8",
-          "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8"        ]
+          "https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8"
+        ]
       }
     ]
   }
