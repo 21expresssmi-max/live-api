@@ -1,68 +1,34 @@
 {
   "events": {
-    "2026-05-23": [
+    "2026-06-11": [
       {
-        "unix_timestamp": 1780043400,
-        "sport": "Tennis",
-        "tournament": "Tennis",
-        "match": "Roland-Garros 360 Day 5",
+        "unix_timestamp": 1781199000,
+        "sport": "football",
+        "tournament": "FIFA World Cup 2026",
+        "match": "FIFA World Cup Opening Ceremony: Mexico",
         "channels": [
-          "https://late-darkness-180a.deriindriawan1.workers.dev?url=https://dami-tv.pro/papi/tv/playlist/aHR0cHM6Ly9jaGF0LmNmYnUyNDcuc2JzL2FwaS9wcm94eS9wbGF5bGlzdD90b2tlbj1leUp5WldabGNtVnlJam9pYUhSMGNITTZMeTlrYjI1cGN5NXFhVzF3Wlc1dmNHbHpiMjVzYVc1bExtOXViR2x1WlM5d2NtVnRhWFZ0ZEhZdlpHRmtaSGt1Y0dod1AybGtQVE14SWl3aWJUTjFPQ0k2SW1oMGRIQnpPaTh2Y0c5dWRHOXpMbkJvWVc1MFpXMXNhWE11ZEc5d0wzQnlaVzFwZFcwek1TOTBjbUZqYTNNdGRqRmhNUzl0YjI1dkxtMHpkVGdfYldRMVBXeDFWRk5MUlRSdldVbEpSbkp0TVVwRVFtVlpRVkVtWlhod2FYSmxjejB4TnpjNU9UYzJNVEE1SWl3aWRITWlPakUzTnprNU56VTNOell3TmpVc0ltTm9ZVzV1Wld4SlpDSTZJak14SW4w"
+          "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8",
+          "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8"
         ]
       },
       {
-        "unix_timestamp": 1780014600,
-        "sport": "NBA",
-        "tournament": "NBA",
-        "match": "San Antonio Spurs vs Oklahoma City Thunder",
+        "unix_timestamp": 1781204400,
+        "sport": "football",
+        "tournament": "FIFA World Cup 2026",
+        "match": "Mexico vs South Africa",
         "channels": [
-          "https://late-darkness-180a.deriindriawan1.workers.dev?url=https://dami-tv.pro/papi/tv/playlist/aHR0cHM6Ly9jaGF0LmNmYnUyNDcuc2JzL2FwaS9wcm94eS9wbGF5bGlzdD90b2tlbj1leUp5WldabGNtVnlJam9pYUhSMGNITTZMeTlrYjI1cGN5NXFhVzF3Wlc1dmNHbHpiMjVzYVc1bExtOXViR2x1WlM5d2NtVnRhWFZ0ZEhZdlpHRmtaSGt6TG5Cb2NEOXBaRDAzTmpraUxDSnRNM1U0SWpvaWFIUjBjSE02THk5MmIyMXZjeTV3YUdGdWRHVnRiR2x6TG5SdmNDOXdjbVZ0YVhWdE56WTVMM1J5WVdOcmN5MTJNV0V4TDIxdmJtOHViVE4xT0Q5dFpEVTlkWGxDVDNaZk5EaEZjM0p0TjJKWk9FdHJka3B4WnlabGVIQnBjbVZ6UFRFM056azVOell4TnpZaUxDSjBjeUk2TVRjM09UazNOVGd5TURBd01pd2lZMmhoYm01bGJFbGtJam9pTnpZNUluMA"
-        ]
+          "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8",
+          "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8"        ]
       },
       {
-        "unix_timestamp": 1780012800,
-        "sport": "Ice Hockey (NHL)",
-        "tournament": "NHL",
-        "match": "Vegas Golden Knights vs Colorado Avalanche",
+        "unix_timestamp": 1781229600,
+        "sport": "football",
+        "tournament": "FIFA World Cup 2026",
+        "match": "Korea Republic vs Czech Republic",
         "channels": [
-          "https://late-darkness-180a.deriindriawan1.workers.dev?url=https://dami-tv.pro/papi/tv/playlist/aHR0cHM6Ly9jaGF0LmNmYnUyNDcuc2JzL2FwaS9wcm94eS9wbGF5bGlzdD90b2tlbj1leUp5WldabGNtVnlJam9pYUhSMGNITTZMeTlrYjI1cGN5NXFhVzF3Wlc1dmNHbHpiMjVzYVc1bExtOXViR2x1WlM5d2NtVnRhWFZ0ZEhZdlpHRmtaSGt6TG5Cb2NEOXBaRDAwTkNJc0ltMHpkVGdpT2lKb2RIUndjem92TDNadmJXOXpMbkJvWVc1MFpXMXNhWE11ZEc5d0wzQnlaVzFwZFcwME5DOTBjbUZqYTNNdGRqRmhNUzl0YjI1dkxtMHpkVGdfYldRMVBXUTFWMmQ2VmpGbWVFaFpYMEpzYVVKUFJsRndNV2NtWlhod2FYSmxjejB4TnpjNU9UYzVNamczSWl3aWRITWlPakUzTnprNU56VTROekkyTmpNc0ltTm9ZVzV1Wld4SlpDSTZJalEwSW4w"
-        ]
-      },
-      {
-        "unix_timestamp": 1779978000,
-        "sport": "IIHF Ice Hockey",
-        "tournament": "IIHF World Championship Quarterfinal",
-        "match": "Canada vs USA",
         "channels": [
-          "https://deviantart.lovetier.bz/POLSATSPORTPL/tracks-v1a1/mono.m3u8?token=UE9MU0FUU1BPUlRQTHxub19jaGVja19pcHwxNzc5OTc5Njkw.e8a014f28a78eb48cff1d3850af5bac816a086ce5baa438a99add5b1c56cca4e"
-        ]
-      },
-      {
-        "unix_timestamp": 1779978000,
-        "sport": "IIHF Ice Hockey",
-        "tournament": "IIHF World Championship Quarterfinal",
-        "match": "Finland vs Czech Republic",
-        "channels": [
-          "https://late-darkness-180a.deriindriawan1.workers.dev?url=https://dami-tv.pro/papi/tv/playlist/aHR0cHM6Ly9jaGF0LmNmYnUyNDcuc2JzL2FwaS9wcm94eS9wbGF5bGlzdD90b2tlbj1leUp5WldabGNtVnlJam9pYUhSMGNITTZMeTlrYjI1cGN5NXFhVzF3Wlc1dmNHbHpiMjVzYVc1bExtOXViR2x1WlM5d2NtVnRhWFZ0ZEhZdlpHRmtaSGt6TG5Cb2NEOXBaRDB4TVRRaUxDSnRNM1U0SWpvaWFIUjBjSE02THk5MmIyMXZjeTV3YUdGdWRHVnRiR2x6TG5SdmNDOXdjbVZ0YVhWdE1URTBMM1J5WVdOcmN5MTJNV0V4TDIxdmJtOHViVE4xT0Q5dFpEVTlkM0JaZEZSSGJVWkxNV2xKUVhSdWFuZzRRV0owVVNabGVIQnBjbVZ6UFRFM056azVOelkwTlRNaUxDSjBjeUk2TVRjM09UazNOVFl5T0RNME15d2lZMmhoYm01bGJFbGtJam9pTVRFMEluMA"
-        ]
-      },
-      {
-        "unix_timestamp": 1779992400,
-        "sport": "IIHF Ice Hockey",
-        "tournament": "IIHF World Championship Quarterfinal",
-        "match": "Norway vs Latvia",
-        "channels": [
-          "https://late-darkness-180a.deriindriawan1.workers.dev?url=https://dami-tv.pro/papi/tv/playlist/aHR0cHM6Ly9jaGF0LmNmYnUyNDcuc2JzL2FwaS9wcm94eS9wbGF5bGlzdD90b2tlbj1leUp5WldabGNtVnlJam9pYUhSMGNITTZMeTlrYjI1cGN5NXFhVzF3Wlc1dmNHbHpiMjVzYVc1bExtOXViR2x1WlM5d2NtVnRhWFZ0ZEhZdlpHRmtaSGt6TG5Cb2NEOXBaRDB4TVRRaUxDSnRNM1U0SWpvaWFIUjBjSE02THk5MmIyMXZjeTV3YUdGdWRHVnRiR2x6TG5SdmNDOXdjbVZ0YVhWdE1URTBMM1J5WVdOcmN5MTJNV0V4TDIxdmJtOHViVE4xT0Q5dFpEVTlkM0JaZEZSSGJVWkxNV2xKUVhSdWFuZzRRV0owVVNabGVIQnBjbVZ6UFRFM056azVOelkwTlRNaUxDSjBjeUk2TVRjM09UazNOVFkzTkRNd09Td2lZMmhoYm01bGJFbGtJam9pTVRFMEluMA"
-        ]
-      },
-      {
-        "unix_timestamp": 1779992400,
-        "sport": "IIHF Ice Hockey",
-        "tournament": "IIHF World Championship Quarterfinal",
-        "match": "Switzerland vs Sweden",
-        "channels": [
-          "https://late-darkness-180a.deriindriawan1.workers.dev?url=https://dami-tv.pro/papi/tv/playlist/aHR0cHM6Ly9jaGF0LmNmYnUyNDcuc2JzL2FwaS9wcm94eS9wbGF5bGlzdD90b2tlbj1leUp5WldabGNtVnlJam9pYUhSMGNITTZMeTlrYjI1cGN5NXFhVzF3Wlc1dmNHbHpiMjVzYVc1bExtOXViR2x1WlM5d2NtVnRhWFZ0ZEhZdlpHRmtaSGt6TG5Cb2NEOXBaRDB4TVRJaUxDSnRNM1U0SWpvaWFIUjBjSE02THk5MmIyMXZjeTV3YUdGdWRHVnRiR2x6TG5SdmNDOXdjbVZ0YVhWdE1URXlMM1J5WVdOcmN5MTJNV0V4TDIxdmJtOHViVE4xT0Q5dFpEVTlUVzVpYlZsSWQxbDBNRlJ6V1V4Q05Yb3hhbTUwZHlabGVIQnBjbVZ6UFRFM056azVOemt4TnpjaUxDSjBjeUk2TVRjM09UazNOVGN5TWpnME9Dd2lZMmhoYm01bGJFbGtJam9pTVRFeUluMA"
-        ]
+          "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8",
+          "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8"        ]
       }
     ]
   }
