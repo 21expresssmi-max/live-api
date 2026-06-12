@@ -1,34 +1,37 @@
 {
   "events": {
-    "2026-06-11": [
+    "2026-06-12": [
       {
-        "unix_timestamp": 1781199000,
+        "unix_timestamp": 1781285400000,
         "sport": "FIFA World Cup 2026",
         "tournament": "FIFA World Cup 2026",
-        "match": "FIFA World Cup Opening Ceremony: Mexico",
+        "match": "FIFA World Cup Opening Ceremony:  Canada 🏆",
         "channels": [
+          "https://embed.st/embed/golf/23121/1",
           "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8",
           "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8",
           "https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8"
         ]
       },
       {
-        "unix_timestamp": 1781204400,
+        "unix_timestamp": 1781290800000,
         "sport": "FIFA World Cup 2026",
         "tournament": "FIFA World Cup 2026",
-        "match": "Mexico vs South Africa",
+        "match": "Canada vs Bosnia-Herzegovina",
         "channels": [
+          "https://embed.st/embed/golf/22983/1",
           "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8",
           "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8",
           "https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8"
         ]
       },
       {
-        "unix_timestamp": 1781229600,
+        "unix_timestamp": 1781312400000,
         "sport": "FIFA World Cup 2026",
         "tournament": "FIFA World Cup 2026",
-        "match": "Korea Republic vs Czech Republic",
+        "match": "USA vs Paraguay",
         "channels": [
+          "https://embed.st/embed/golf/22984/1",
           "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8",
           "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8",
           "https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8"
