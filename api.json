@@ -1,13 +1,13 @@
 {
   "events": {
-    "2026-06-12": [
+    "2026-06-14": [
       {
-        "unix_timestamp": 1781285400000,
+        "unix_timestamp": 1781388000000,
         "sport": "FIFA World Cup 2026",
         "tournament": "FIFA World Cup 2026",
-        "match": "FIFA World Cup Opening Ceremony:  Canada 🏆",
+        "match": "Brazil vs Morocco",
         "channels": [
-          "https://embed.st/embed/golf/23121/1",
+          "https://embed.st/embed/admin/ppv-brazil-vs-morocco/1",
           "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8",
           "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8",
           "https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8"
