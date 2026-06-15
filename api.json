@@ -8,8 +8,6 @@
         "match": "Spain vs Cape Verde",
         "channels": [
           "https://nl1.nghk.ai/ArenaSport1BH/index.m3u8",
-          "https://junkieembeds.pages.dev/embed/fox-usa",
-          "https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=&user=cdnlivetv&plan=freestreams-live1d",
           "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb38e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzhlOjE3ODE1NTA5MDU3MTA6Y2RubGl2ZXR2LnR2OjBkMTk3OGNhMjc3YzE3ZGUuNTJmYzU5ZTI5MGQwN2JiYmRmNjk4ZWE5ZjNlOWQwYTRhZGI3YmJkMzRjYTFmMWY2NDMwNjUyYTIyZmE5Y2E4Mw",
           "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc172/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcyOjE3ODE1NTEzMDQ1MzA6Y2RubGl2ZXR2LnR2OmJlODViOGMwNzIyNjA0YWEuOWE1ZGYyNGVhM2UwNDhmNDVkMjIwYjM0YjhmYTg5ODJiZGM2MGY2OWM3MWVhMDcyODY5MDc2NWI1ODVmYWJiMQ",
           "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd423/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDIzOjE3ODE1NTE0ODEyODY6Y2RubGl2ZXR2LnR2OmNmOWE4MDdjZDQ3ZTk2NTcuZTYwYWQ1NGNhNGMxZjJhNGJhMTRkYjBmZGEzMDc5MDg1NmIzNTczYmNhMmYxNDE1MTdkMDc1YTEyYjNlZmEwNw"
@@ -22,8 +20,6 @@
         "match": "Belgium vs Egypt",
         "channels": [
           "https://nl1.nghk.ai/ArenaSport1BH/index.m3u8",
-          "https://junkieembeds.pages.dev/embed/fox-usa",
-          "https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=&user=cdnlivetv&plan=freestreams-live1d",
           "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb38e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzhlOjE3ODE1NTA5MDU3MTA6Y2RubGl2ZXR2LnR2OjBkMTk3OGNhMjc3YzE3ZGUuNTJmYzU5ZTI5MGQwN2JiYmRmNjk4ZWE5ZjNlOWQwYTRhZGI3YmJkMzRjYTFmMWY2NDMwNjUyYTIyZmE5Y2E4Mw",
           "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc172/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcyOjE3ODE1NTEzMDQ1MzA6Y2RubGl2ZXR2LnR2OmJlODViOGMwNzIyNjA0YWEuOWE1ZGYyNGVhM2UwNDhmNDVkMjIwYjM0YjhmYTg5ODJiZGM2MGY2OWM3MWVhMDcyODY5MDc2NWI1ODVmYWJiMQ",
           "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd423/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDIzOjE3ODE1NTE0ODEyODY6Y2RubGl2ZXR2LnR2OmNmOWE4MDdjZDQ3ZTk2NTcuZTYwYWQ1NGNhNGMxZjJhNGJhMTRkYjBmZGEzMDc5MDg1NmIzNTczYmNhMmYxNDE1MTdkMDc1YTEyYjNlZmEwNw"
@@ -36,8 +32,6 @@
         "match": "Saudi Arabia vs Uruguay",
         "channels": [
           "https://nl1.nghk.ai/ArenaSport1BH/index.m3u8",
-          "https://junkieembeds.pages.dev/embed/fox-usa",
-          "https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=&user=cdnlivetv&plan=freestreams-live1d",
           "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb38e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzhlOjE3ODE1NTA5MDU3MTA6Y2RubGl2ZXR2LnR2OjBkMTk3OGNhMjc3YzE3ZGUuNTJmYzU5ZTI5MGQwN2JiYmRmNjk4ZWE5ZjNlOWQwYTRhZGI3YmJkMzRjYTFmMWY2NDMwNjUyYTIyZmE5Y2E4Mw",
           "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc172/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcyOjE3ODE1NTEzMDQ1MzA6Y2RubGl2ZXR2LnR2OmJlODViOGMwNzIyNjA0YWEuOWE1ZGYyNGVhM2UwNDhmNDVkMjIwYjM0YjhmYTg5ODJiZGM2MGY2OWM3MWVhMDcyODY5MDc2NWI1ODVmYWJiMQ",
           "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd423/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDIzOjE3ODE1NTE0ODEyODY6Y2RubGl2ZXR2LnR2OmNmOWE4MDdjZDQ3ZTk2NTcuZTYwYWQ1NGNhNGMxZjJhNGJhMTRkYjBmZGEzMDc5MDg1NmIzNTczYmNhMmYxNDE1MTdkMDc1YTEyYjNlZmEwNw"
@@ -50,8 +44,6 @@
         "match": "Iran vs New Zealand",
         "channels": [
           "https://nl1.nghk.ai/ArenaSport1BH/index.m3u8",
-          "https://junkieembeds.pages.dev/embed/fox-usa",
-          "https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=&user=cdnlivetv&plan=freestreams-live1d",
           "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb38e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzhlOjE3ODE1NTA5MDU3MTA6Y2RubGl2ZXR2LnR2OjBkMTk3OGNhMjc3YzE3ZGUuNTJmYzU5ZTI5MGQwN2JiYmRmNjk4ZWE5ZjNlOWQwYTRhZGI3YmJkMzRjYTFmMWY2NDMwNjUyYTIyZmE5Y2E4Mw",
           "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc172/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcyOjE3ODE1NTEzMDQ1MzA6Y2RubGl2ZXR2LnR2OmJlODViOGMwNzIyNjA0YWEuOWE1ZGYyNGVhM2UwNDhmNDVkMjIwYjM0YjhmYTg5ODJiZGM2MGY2OWM3MWVhMDcyODY5MDc2NWI1ODVmYWJiMQ",
           "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd423/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDIzOjE3ODE1NTE0ODEyODY6Y2RubGl2ZXR2LnR2OmNmOWE4MDdjZDQ3ZTk2NTcuZTYwYWQ1NGNhNGMxZjJhNGJhMTRkYjBmZGEzMDc5MDg1NmIzNTczYmNhMmYxNDE1MTdkMDc1YTEyYjNlZmEwNw"
